@@ -15,7 +15,7 @@ Github Repository - https://github.com/patbi/jstransitions
 https://github.com/patbi/jstransitions
 ```
 
-## Step2 : clone repository :
+## Step2 : clone repository from Your CMD:
 
 ```bash
 git clone git@github.com:patbi/jstransitions.git
