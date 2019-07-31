@@ -9,7 +9,7 @@ Github Repository - https://github.com/patbi/jstransitions
 
 > clone and enjoy project 
 
-## Step1 : request the following url from Your CMD :  
+## Step1 : request the following url from Your browser :  
 
 ```bash
 https://github.com/patbi/jstransitions
