@@ -35,7 +35,7 @@ parcel index.html
 
 > wait 30s for the installation dependencies and ask url http://localhost:1234/
 
-wait and enjoy !
+wait and enjoy printed content!
 
 
 ![Preview](https://github.com/patbi/jstransitions/blob/master/IB.PNG)
