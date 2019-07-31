@@ -38,7 +38,7 @@ parcel index.html
 wait and enjoy !
 
 
-![Preview](https://github.com/patbi/jstransitions/IB.png)
+![Preview](https://github.com/patbi/jstransitions/blob/master/IB.PNG)
 
 
 > @Patrick BIYAGA
