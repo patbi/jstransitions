@@ -38,7 +38,7 @@ parcel index.html
 wait and enjoy !
 
 
-![40% center](IB.png)
+![40% center](https://github.com/patbi/jstransitions/IB.png)
 
 
 > @Patrick BIYAGA
